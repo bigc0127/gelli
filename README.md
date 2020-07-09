@@ -16,7 +16,7 @@ This is a native music player for Android devices that connects to Jellyfin medi
 
 ## Issues
 
-Since this was a small project intended mainly for myself, there are some things I haven't resolved yet. I would appreciate pull requests to fix any of these issues!
+Since this was a small project there are some things I haven't resolved yet. I would appreciate pull requests to fix any of these issues!
 
 * All lists are capped at 100 entries to avoid excessive load times
 * Artist sorting isn't available through the API
