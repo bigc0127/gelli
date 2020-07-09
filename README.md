@@ -13,6 +13,7 @@ This is a native music player for Android devices that connects to Jellyfin medi
 * Media service integration with notification
 * Favorites and playlists
 * Filter content by library
+* Batch Actions
 
 ## Issues
 
@@ -22,7 +23,6 @@ Since this was a small project there are some things I haven't resolved yet. I w
 * Artist sorting isn't available through the API
 * Playlists and favorites will not update automatically when changed
 * Sorting also requires a reload to take effect
-* Batch actions are not yet functional
 
 ## Future Plans
 
